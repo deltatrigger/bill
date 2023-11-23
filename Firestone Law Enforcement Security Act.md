@@ -129,7 +129,7 @@ a) POST may establish a retraining or recertification process and provide guidel
 (e) The academy may mandate that any individual whose certification is to be reinstated after a period of or exceeding 120 days, will be required to pass a recertification exam prior to the actual reinstatement of their certification.
 
 (f) It shall be unlawful for any individual to maintain employment within a Law Enforcement Department/Position while their certification is either suspended or has been revoked.
-(i) For the purposes of this act, "Law Enforcement Department/Position" shall be defined as the follow:
+(i) For the purposes of this act, "Law Enforcement Department/Position" shall be defined as the following:
 -[Firestone State Patrol](https://www.roblox.com/groups/2803364/Firestone-State-Patrol)
 -[Firestone Bureau of Investigation](https://www.roblox.com/groups/3411434/Firestone-Bureau-of-Investigation)
 -[Firestone National Guard: Military Police](https://www.roblox.com/groups/5758776/FNG-Military-Police)
