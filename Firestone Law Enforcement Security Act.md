@@ -39,11 +39,17 @@ The list of “type 1 prescribed offence” is as follows:
 
 (i). Any offence classified as a “Felony” that is not defined
 as a Type 2 prescribed offence.
+
 (ii) Impersonation
+
 (iii) Solicitation to commit a crime
+
 (iv) Obstruction of Justice
+
 (v) Solicitation to commit a crime
+
 (vi) Acting As Accessory to a Crime (Misdemeanor offense)
+
 (vii) Evasion
 
 
@@ -51,21 +57,33 @@ as a Type 2 prescribed offence.
 The list of “type 2 prescribed offence” is as follows:
 
 (i) Any offense involving the unauthorized release of information protected by the [Classification Act of 2023](https://forums.stateoffirestone.com/t/classification-act-of-2023/25137)
+
 (ii) Felony Corruption
+
 (iii) Treason
+
 (iv) Any Offense under Chapter 5 "Firearm Crimes" of the Firestone Criminal Code
+
 (v) Extortion
+
 (vi) Bribery
+
 (vii) Perjury
 
 (f) An individual is considered to have committed a criminal offense under at least one of the following stipulations:
 
 (i) A state criminal investigative agency or unit asserts that the individual committed the offense as the finding of an investigation (To include tangible evidence).
-(1) The following are defined as “State Criminal Investigative Agency or Units”: 
+
+(1) The following are defined as “State Criminal Investigative Agency or Units”:
+
 -Firestone Bureau of Investigation: Criminal Investigations Service
+
 -Firestone Department of Justice
+
 (ii) The individual was arrested by law enforcement with the prescribed offense listed as the charge, provided the arrest was lawful.
+
 (iii) The individual has an active warrant for a charge that is listed as a prescribed offense.
+
 (iv) The individual is prosecuted and convicted of a criminal offense in a court of law.
 
 **SECTION 3 - DOCUMENTATION; ENFORCEMENT**
