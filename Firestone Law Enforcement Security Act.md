@@ -34,11 +34,10 @@
 
 (c) “POST certification” shall refer to the mandated certification which must be maintained by an individual in order to be eligible for employment within any Law Enforcement Department or law enforcement officer position, issued by the Firestone Peace Officer Standards and Training.
 
-(d)A ‘type 1 prescribed offense’ is one which, if an individual commits while either on-duty or off-duty as part of a Law Enforcement Department, they will be liable for an immediate certification suspension.
+(d) A ‘type 1 prescribed offense’ is one which, if an individual commits while either on-duty or off-duty as part of a Law Enforcement Department, they will be liable for an immediate certification suspension.
 The list of “type 1 prescribed offence” is as follows:
 
-(i). Any offence classified as a “Felony” that is not defined
-as a Type 2 prescribed offense.
+(i) Any offence classified as a “Felony” that is not defined as a Type 2 prescribed offense.
 
 (ii) Impersonation
 
@@ -53,7 +52,7 @@ as a Type 2 prescribed offense.
 (vii) Evasion
 
 
-(e)A ‘type 2 prescribed offence’ is one which, if an individual commits while either on-duty or off-duty as part of a Law Enforcement Department, they will be liable for an immediate certification revoke.
+(e) A ‘type 2 prescribed offence’ is one which, if an individual commits while either on-duty or off-duty as part of a Law Enforcement Department, they will be liable for an immediate certification revoke.
 The list of “type 2 prescribed offence” is as follows:
 
 (i) Any offense involving the unauthorized release of information protected by the [Classification Act of 2023](https://forums.stateoffirestone.com/t/classification-act-of-2023/25137)
@@ -92,7 +91,7 @@ The list of “type 2 prescribed offence” is as follows:
 
 **A. Certification Warnings**
 
-(a) POST is afforded the right to issue a warning on any certification issued by the Academy for an indefinite period provided at least one of the following criteria is
+(a) POST is afforded the right to issue a warning on any certification issued by the Department for an indefinite period provided at least one of the following criteria is
 met:
 
 (i) The individual has committed a criminal offense that is not listed as a type 1 or type 2 prescribed offence.
@@ -103,17 +102,17 @@ met:
 
 (iv) The individual is found to have violated the peace officer oath they recited at the end of their POST class at any time.
 
-(v) POST has been provided evidence to determine that an individual has conducted major violationsof POST teachings(Curriculum).
+(v) POST has obtained or has been provided evidence proving more than not likely the individual has conducted major violation(s) of POST teachings(Curriculum).
 
 (i) The incumbent POST Director will be required to publicize a document listing all “major” violations of POST teachings, approved by the Governor prior to officialization.
 
 (vi) The individual commits an offense that warrants a certification suspension or revocation.
 
-(vii) Where a court of law has ordered a warning be issued on an individual’s certification.
+(vii) Whereas a court of law has ordered a warning be issued on an individual’s certification.
 
 **B. Certification Suspensions**
 
-(a) POST is afforded the right to suspend any certification issued by the Academy if at least one of the following criteria is met:
+(a) POST is afforded the right to suspend any certification issued by the Department if at least one of the following criteria is met:
 
 (i) The individual holding the certification committed a criminal offense whilst acting in capacity as a law enforcement officer.
 
@@ -121,7 +120,7 @@ met:
 
 (iii) The individual committed a crime which is listed as a type 1 or type 2 prescribed offense.
 
-(iv) Where the individual requests that their certification be suspended.
+(iv) Whereas the individual requests that their certification be suspended.
 
 (v) The individual has two or more active warnings or strikes on their certification.
 
@@ -129,25 +128,25 @@ met:
 
 (vii) There is probable cause to believe that the individual has used an excessive or unwarranted amount of force on another person, resulting in injury, death, or immobilization.
 
-(ix) Where a court of a law has ordered the suspension of an individual’s certification.
+(ix) Whereas a court of a law has ordered the suspension of an individual’s certification.
 
 **C. Certification Revocations**
 
-(a) POST is afforded the right to permanently revoke any certification issued by the Academy provided at least one of the following criteria is met:
+(a) POST is afforded the right to permanently revoke any certification issued by the Department provided at least one of the following criteria is met:
 
-(i) The individual holding the certification was convicted of a criminal offense defined as a type 1 or type 2 prescribed offence.
+(i) The individual holding the certification was convicted of a criminal offense defined as a type 1 or type 2 prescribed offense.
 
-(ii) The individual holding the certification committed a crime that is listed as a type 2 prescribed offense.
+(ii) The individual holding the certification has been convicted of or lawfully arrested for a felony under the Firestone Criminal Code.
 
 (iii) The individual no longer holds State of Firestone citizenship.
 
 (iv) The individual holding the certification was subject to in-game moderation action (permanent bans only) which prevents them from entering the boundaries of the State.
 
-(v) Where the individual’s certification is suspended, and they have failed to meet any re-training demands of the institute after 90 days.
+(v) Where the individual’s certification is suspended, and they have failed to meet any re-training mandated by the department or court order after 90 days or the perscribed timeline of the court order.
 
 (vi) The individual provides unauthorized aid to POST cadets by sharing curriculum materials or assisting candidates on any POST assessment or examination.
 
-(vii) Where a court of law has ordered the revocation of an individual’s certification.
+(vii) Whereas a court of law has ordered the revocation of an individual’s certification.
 
 (viii) The individual is issued a Public Safety Blacklist by the Firestone Department of Public Safety.
 
@@ -155,7 +154,7 @@ met:
 
 (x) The individual carries out an action that involves malicious intent to misuse their power as a law enforcement officer, also known as “Rogue.”
 
-(xi) Where the individual requests that their certification is revoked.
+(xi) Whereas the individual requests that their certification is revoked.
 
 (xii) The individual has three or more active warnings or strikes on their certification.
 
