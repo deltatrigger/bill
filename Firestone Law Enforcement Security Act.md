@@ -178,7 +178,7 @@ met:
 
 (1) POST may choose to reinstate the certification themselves for any reason; this shall not apply to certifications revoked via court order or Public Safety Blacklist.
 
-b) POST may establish a retraining or recertification process and provide guidelines for the implementation of this process, and may require completion of such a process before the department reinstates a revoked certification.
+b) POST may establish a retraining or recertification process and provide guidelines for the implementation of this process, and may require completion of such a process before the department reinstates a revoked certification in the event the certification was revoked lawfully and in accordance with relevant policy.
 
 (c)In the event a certification is indefinitely suspended, the certification holder is entitled to have their certification unsuspended after 30 days from the date the suspension was issued, unless their suspension was the result of an arrest or conviction for a prescribed offense.
 
