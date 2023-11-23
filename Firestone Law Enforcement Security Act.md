@@ -220,7 +220,7 @@ b) POST may establish a retraining or recertification process and provide guidel
 
 -[Stapleton County Port Authority](https://www.roblox.com/groups/11324038/Stapleton-County-Port-Authority)
 
-(g) Any law enforcement agency head, who after being provided a notice of the violation from the POST Director, employs or maintains employment an individual in a Law Enforcement Department/Position that does not possess a valid POST certification for a time period of 72 hours or greater shall be comitting “Obstruction of Justice“.
+(g) Any law enforcement agency head, who after being provided a notice of the violation from the POST Director, employs or maintains employment an individual in a Law Enforcement Department/Position that does not possess a valid POST certification for a time period of 72 hours or greater shall be comitting [Obstruction of Justice](https://trello.com/c/YjpJLW5S).
 
 
 **CHIEF-SPONSOR**
