@@ -186,13 +186,13 @@ b) POST may establish a retraining or recertification process and provide guidel
 
 (1) All criminal charges listed as a Type 1 or Type 2 prescribed offence are expunged or pardoned. This includes not only the charge(s) resulting in suspension, but also any other charge before or after the suspension occurring.
 
-(ii) The suspension may still be lifted before the thirty(30) day point if the academy chooses to do so.
+(ii) The suspension may still be lifted before the thirty(30) day point if the department chooses to do so.
 
-(iii) It is the duty of the individual holding suspended certification to inform the academy that he is eligable for reinstatement under this provision.
+(iii) It is the duty of the individual holding suspended certification to inform POST that they is eligable for reinstatement under this provision.
 
-(iv) A suspension will not be lifted automatically in any case where the individual holds a criminal record which would allow the academy to suspend or revoke their certification.
+(iv) A suspension will not be lifted automatically in any case where the individual holds a criminal record which would allow the department to suspend or revoke their certification.
 
-(d) The academy may mandate that any individual whose certification is to be reinstated after a period of or exceeding 120 days, will be required to pass a recertification exam or refresher course prior to the actual reinstatement of their certification.
+(d) POST may mandate that any individual whose certification is to be reinstated after a period of or exceeding 120 days, will be required to pass a recertification exam or refresher course prior to the actual reinstatement of their certification.
 
 (e) It shall be unlawful for any individual to maintain employment within a Law Enforcement Department/Position or act in the capacity of a law enforcement officer if they do not hold a certification from POST or their certification has been revoked.
 
