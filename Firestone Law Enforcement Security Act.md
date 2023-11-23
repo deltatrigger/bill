@@ -71,7 +71,7 @@ The list of “type 2 prescribed offence” is as follows:
 
 (f) An individual is considered to have committed a criminal offense under at least one of the following stipulations:
 
-(i) A state criminal investigative agency or unit asserts that the individual committed the offense as the finding of an investigation (To include tangible evidence).
+(i) A state criminal investigative agency or unit asserts that the individual committed the offense beyond a reasonable doubt as the finding of an investigation (To include tangible evidence).
 
 (1) The following are defined as “State Criminal Investigative Agency or Units”:
 
