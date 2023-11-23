@@ -41,7 +41,7 @@ The list of “type 1 prescribed offence” is as follows:
 
 (ii) [Impersonation](https://trello.com/c/wwCqEqXj)
 
-(iii) [Solicitation to commit a crime](https://trello.com/c/SQgMyie1)
+(iii) [Contempt of Court](https://trello.com/c/Vz0fCCbF)
 
 (iv) [Obstruction of Justice](https://trello.com/c/YjpJLW5S)
 
@@ -55,13 +55,13 @@ The list of “type 1 prescribed offence” is as follows:
 (e) A ‘type 2 prescribed offence’ is one which, if an individual commits while either on-duty or off-duty as part of a Law Enforcement Department, they will be liable for an immediate certification revoke.
 The list of “type 2 prescribed offence” is as follows:
 
-(i) Any offense involving the unauthorized release of information protected by the [Classification Act of 2023](https://forums.stateoffirestone.com/t/classification-act-of-2023/25137)
+(i) Any offense involving the unauthorized release or posession of information protected by the [Classification Act of 2023](https://forums.stateoffirestone.com/t/classification-act-of-2023/25137)
 
 (ii) [Felony Corruption](https://trello.com/c/A26SJ8W9)
 
 (iii) [Treason](https://trello.com/c/vuN5Dady)
 
-(iv) Any Offense under Chapter 5 "Firearm Crimes" of the [Firestone Criminal Code](https://trello.com/b/EGN3OQzQ/firestone-criminal-code)
+(iv) [Misconduct](https://trello.com/c/t7cmTBfX)
 
 (v) [Extortion](https://trello.com/c/wo1vtQvK)
 
