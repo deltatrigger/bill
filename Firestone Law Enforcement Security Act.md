@@ -166,6 +166,8 @@ met:
 
 (a) POST shall be required to obtain and posses tangible evidence that meets the burden of beyond a reasonable doubt when levying action against an individuals POST certification; this shall not apply to certifications revoked via court order or Public Safety Blacklist.
 
+(i) Should an indvividual's POST certification be revoked as a result of POST action, he/she shall be entitled to recieve all evidence used against them and to be informed of the specific violations they are accused of. Evidence may be withheld if lawfully classified under The [Classification Act of 2023](https://forums.stateoffirestone.com/t/classification-act-of-2023/25137). Names of witnesses or the identity of any reporting parties shall be withheld at the discrection of POST.
+
 (a) In the event a certification is warned, suspended, or revoked, the individual holding that certification reserves the right to appeal to one of the following bodies.
 
 **(i) The District Court**
