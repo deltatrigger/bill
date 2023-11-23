@@ -194,7 +194,7 @@ b) POST may establish a retraining or recertification process and provide guidel
 
 (d) The academy may mandate that any individual whose certification is to be reinstated after a period of or exceeding 120 days, will be required to pass a recertification exam or refresher course prior to the actual reinstatement of their certification.
 
-(e) It shall be unlawful for any individual to maintain employment within a Law Enforcement Department/Position if they do not hold a certification from POST or their certification has been revoked.
+(e) It shall be unlawful for any individual to maintain employment within a Law Enforcement Department/Position or act in the capacity of a law enforcement officer if they do not hold a certification from POST or their certification has been revoked/suspended.
 
 (f) For the purposes of this act, "Law Enforcement Department/Position" shall be defined as the following:
 
