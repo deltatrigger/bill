@@ -38,7 +38,7 @@
 The list of “type 1 prescribed offence” is as follows:
 
 (i). Any offence classified as a “Felony” that is not defined
-as a Type 2 prescribed offence.
+as a Type 2 prescribed offense.
 
 (ii) Impersonation
 
