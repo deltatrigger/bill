@@ -59,7 +59,7 @@ The list of “type 2 prescribed offence” is as follows:
 
 (ii) [Felony Corruption](https://trello.com/c/A26SJ8W9)
 
-(iii) [Treason](https://trello.com/c/vuN5Dady)
+(iii) [Corruption](https://trello.com/c/VXUXEePn)
 
 (iv) [Misconduct](https://trello.com/c/t7cmTBfX)
 
