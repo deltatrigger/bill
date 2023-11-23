@@ -37,19 +37,19 @@
 (d) A ‘type 1 prescribed offense’ is one which, if an individual commits while either on-duty or off-duty as part of a Law Enforcement Department, they will be liable for an immediate certification suspension.
 The list of “type 1 prescribed offence” is as follows:
 
-(i) Any offence classified as a “Felony” that is not defined as a Type 2 prescribed offense.
+(i) Any offense classified as a Felony Under the [Firestone Criminal Code](https://trello.com/b/EGN3OQzQ/firestone-criminal-code) that is not defined as a Type 2 prescribed offense.
 
-(ii) Impersonation
+(ii) [Impersonation](https://trello.com/c/wwCqEqXj)
 
-(iii) Solicitation to commit a crime
+(iii) [Solicitation to commit a crime](https://trello.com/c/SQgMyie1)
 
-(iv) Obstruction of Justice
+(iv) [Obstruction of Justice](https://trello.com/c/YjpJLW5S)
 
-(v) Solicitation to commit a crime
+(v) [Solicitation to commit a crime](https://trello.com/c/SQgMyie1)
 
-(vi) Acting As Accessory to a Crime (Misdemeanor offense)
+(vi) [Acting As Accessory to a Crime (Misdemeanor offense)](https://trello.com/c/isKrr2QO)
 
-(vii) Evasion
+(vii) [Evasion](https://trello.com/c/wYxHYmHz)
 
 
 (e) A ‘type 2 prescribed offence’ is one which, if an individual commits while either on-duty or off-duty as part of a Law Enforcement Department, they will be liable for an immediate certification revoke.
@@ -57,17 +57,17 @@ The list of “type 2 prescribed offence” is as follows:
 
 (i) Any offense involving the unauthorized release of information protected by the [Classification Act of 2023](https://forums.stateoffirestone.com/t/classification-act-of-2023/25137)
 
-(ii) Felony Corruption
+(ii) [Felony Corruption](https://trello.com/c/A26SJ8W9)
 
-(iii) Treason
+(iii) [Treason](https://trello.com/c/vuN5Dady)
 
-(iv) Any Offense under Chapter 5 "Firearm Crimes" of the Firestone Criminal Code
+(iv) Any Offense under Chapter 5 "Firearm Crimes" of the [Firestone Criminal Code](https://trello.com/b/EGN3OQzQ/firestone-criminal-code)
 
-(v) Extortion
+(v) [Extortion](https://trello.com/c/wo1vtQvK)
 
-(vi) Bribery
+(vi) [Bribery](https://trello.com/c/6gWcJ8jK)
 
-(vii) Perjury
+(vii) [Perjury](https://trello.com/c/3pV6PBcq)
 
 (f) An individual is considered to have committed a criminal offense under at least one of the following stipulations:
 
