@@ -36,6 +36,7 @@
 
 (d)A ‘type 1 prescribed offense’ is one which, if an individual commits while either on-duty or off-duty as part of a Law Enforcement Department, they will be liable for an immediate certification suspension.
 The list of “type 1 prescribed offence” is as follows:
+
 (i). Any offence classified as a “Felony” that is not defined
 as a Type 2 prescribed offence.
 (ii) Impersonation
@@ -48,6 +49,7 @@ as a Type 2 prescribed offence.
 
 (e)A ‘type 2 prescribed offence’ is one which, if an individual commits while either on-duty or off-duty as part of a Law Enforcement Department, they will be liable for an immediate certification revoke.
 The list of “type 2 prescribed offence” is as follows:
+
 (i) Any offense involving the unauthorized release of information protected by the [Classification Act of 2023](https://forums.stateoffirestone.com/t/classification-act-of-2023/25137)
 (ii) Felony Corruption
 (iii) Treason
@@ -57,11 +59,12 @@ The list of “type 2 prescribed offence” is as follows:
 (vii) Perjury
 
 (f) An individual is considered to have committed a criminal offense under at least one of the following stipulations:
+
 (i) A state criminal investigative agency or unit asserts that the individual committed the offense as the finding of an investigation (To include tangible evidence).
 (1) The following are defined as “State Criminal Investigative Agency or Units”: 
 -Firestone Bureau of Investigation: Criminal Investigations Service
 -Firestone Department of Justice
-(ii) The individual was arrested by law enforcement with the proscribed offense listed as the charge, provided the arrest was lawful.
+(ii) The individual was arrested by law enforcement with the prescribed offense listed as the charge, provided the arrest was lawful.
 (iii) The individual has an active warrant for a charge that is listed as a prescribed offense.
 (iv) The individual is prosecuted and convicted of a criminal offense in a court of law.
 
