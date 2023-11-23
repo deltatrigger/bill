@@ -159,39 +159,42 @@ met:
 (xii) The individual has three or more active warnings or strikes on their certification.
 
 (b) It shall be unlawful for any individual other than a properly qualified employee of the academy, or other individuals/bodies listed within this act, to revoke or suspend a certification.
+
 (i) Such employees may only revoke or suspend a certification provided they are granted the authority to do so by internal POST policy, where that policy does not contradict any provision of this act.
 
 **C. Certification Appeals/Guidelines**
 
-(c) In the event a certification is warned, suspended, or revoked, the individual holding that certification reserves the right to appeal to one of the following bodies.
+(a) POST shall be required to obtain and posses tangible evidence that meets the burden of beyond a reasonable doubt when levying action against an individuals POST certification; this shall not apply to certifications revoked via court order or Public Safety Blacklist.
 
-**(i) The district court**
+(a) In the event a certification is warned, suspended, or revoked, the individual holding that certification reserves the right to appeal to one of the following bodies.
 
-(1) The district court may choose to modify or nullify the action issued by the academy, additionally, the district court may issue a harsher disciplinary action if requested by the Academy.
+**(i) The District Court**
+
+(1) The District Court may choose to modify or nullify the action issued by the department, additionally, the district court may issue a harsher disciplinary action if requested by the department.
 
 **(ii) The Firestone Peace Officer Standards and Training**
 
-(1) POST may choose to reinstate the certification themselves for any reason.
+(1) POST may choose to reinstate the certification themselves for any reason; this shall not apply to certifications revoked via court order or Public Safety Blacklist.
 
-a) POST may establish a retraining or recertification process and provide guidelines for the implementation of this process, and may require completion of such a process before the academy reinstates a revoked certification.
+b) POST may establish a retraining or recertification process and provide guidelines for the implementation of this process, and may require completion of such a process before the department reinstates a revoked certification.
 
-(d)In the event a certification is indefinitely suspended, the certification holder is entitled to have their certification unsuspended after 30 days from the date the suspension was issued, unless their suspension was the result of an arrest or conviction for a prescribed offense.
+(c)In the event a certification is indefinitely suspended, the certification holder is entitled to have their certification unsuspended after 30 days from the date the suspension was issued, unless their suspension was the result of an arrest or conviction for a prescribed offense.
 
-(i) If an individual had their certification suspended as the result of an arrest or conviction of a prescribed offence, the following additional criteria must be meant for the certification to be unsuspended:
+(i) If an individual had their certification suspended as the result of an arrest or conviction of a prescribed offence, the following additional criteria must be met for the certification to be unsuspended:
 
 (1) All criminal charges listed as a Type 1 or Type 2 prescribed offence are expunged or pardoned. This includes not only the charge(s) resulting in suspension, but also any other charge before or after the suspension occurring.
 
 (ii) The suspension may still be lifted before the thirty(30) day point if the academy chooses to do so.
 
-(iii) It is the duty of the individual holding suspended certification to inform the academy that he qualifies for reinstatement under this provision.
+(iii) It is the duty of the individual holding suspended certification to inform the academy that he is eligable for reinstatement under this provision.
 
 (iv) A suspension will not be lifted automatically in any case where the individual holds a criminal record which would allow the academy to suspend or revoke their certification.
 
-(e) The academy may mandate that any individual whose certification is to be reinstated after a period of or exceeding 120 days, will be required to pass a recertification exam prior to the actual reinstatement of their certification.
+(d) The academy may mandate that any individual whose certification is to be reinstated after a period of or exceeding 120 days, will be required to pass a recertification exam or refresher course prior to the actual reinstatement of their certification.
 
-(f) It shall be unlawful for any individual to maintain employment within a Law Enforcement Department/Position while their certification is either suspended or has been revoked.
+(e) It shall be unlawful for any individual to maintain employment within a Law Enforcement Department/Position while their certification is either suspended or has been revoked.
 
-(i) For the purposes of this act, "Law Enforcement Department/Position" shall be defined as the following:
+(f) For the purposes of this act, "Law Enforcement Department/Position" shall be defined as the following:
 
 -[Firestone State Patrol](https://www.roblox.com/groups/2803364/Firestone-State-Patrol)
 
@@ -215,7 +218,7 @@ a) POST may establish a retraining or recertification process and provide guidel
 
 -[Stapleton County Port Authority](https://www.roblox.com/groups/11324038/Stapleton-County-Port-Authority)
 
-(i) Any law enforcement agency head, who after being provided a notice of the violation from the POST Director, employs or maintains employment an individual in a Law Enforcement Department/Position that does not possess a valid POST certification for a time period of 72 hours or greater shall be comitting “Obstruction of Justice“.
+(g) Any law enforcement agency head, who after being provided a notice of the violation from the POST Director, employs or maintains employment an individual in a Law Enforcement Department/Position that does not possess a valid POST certification for a time period of 72 hours or greater shall be comitting “Obstruction of Justice“.
 
 
 **CHIEF-SPONSOR**
