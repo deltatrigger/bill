@@ -47,16 +47,13 @@
 
 (a1) At-Will shall be defined as when an employee may be subject to division transfer, or termination of department employment without cause, specifically the employee does not have to be accused of or proven to have violated department policy or procedures in order to be subject to At-Will action.
 
-(a2) In the event an employee is subject to At-Will action in full compliance with this act and its contents, Section 4 subsection a, d, and e of the [Fairier Employment Act](https://forums.stateoffirestone.com/t/fairer-employment-act/17505) shall not apply.
+(a2) Employees facing At-Will action shall be entitled to a hearing in which they will have 24 hours to provide a response to the allegations levied against them. In order for an employee to be subject to At-Will action the Department Head, Deputy Department Head, and the commanding officer of the employees division of assignment must unanimously be in favor. In subsitute of the commanding officer of the employees division of assignment, the commanding officer of the department's designated Internal Affairs Body can count towards the 3-person approval.
+
+(a3) In the event an employee is subject to At-Will action in full compliance with this act and its contents, Section 4 subsection a, d, and e of the [Fairier Employment Act](https://forums.stateoffirestone.com/t/fairer-employment-act/17505) shall not apply.
 
 (b) Employees shall be protected from At-Will actions conducted with malice or in bad faith.
 
 (c) Employees shall maitain protections granted to them by Section 2 of the [Fairier Employment Act](https://forums.stateoffirestone.com/t/fairer-employment-act/17505) and cannot be At-Willed or denied employment on the basis of refusal to surrender these protections through oral or written contract.
-
-
-
-
-*
 
 **CHIEF-SPONSOR**
 
